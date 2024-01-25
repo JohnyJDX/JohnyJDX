@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Ivan Sumskyi 👋
 
-<!--
-**JohnyJDX/JohnyJDX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a junior front-end developer passionate about creating responsive and user-friendly web applications. Currently exploring the vast world of web development and always eager to learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML5, CSS3, JavaScript
+- Front-end frameworks/libraries: React.js
+- Version Control: Git, GitHub
+- Responsive web design
+- Basic knowledge of UI/UX design principles
+
+## 🔧 Tools & Technologies
+
+- Code Editor: Visual Studio Code
+- Design: Figma
+- Version Control: Git, GitHub
+- Collaboration: Slack, Trello
+
+## 🌱 Currently Learning
+
+- Exploring advanced JavaScript concepts
+- Enhancing skills in React.js
+- Improving UI/UX design skills
+
+## 📫 Contact Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ivan-sumskyi/)
+- Email: ivensmsk@gmail.com
+
+
