@@ -1,7 +1,7 @@
 # Hello, I'm Ivan Sumskyi 👋
 
 
-I'm a junior front-end developer passionate about creating responsive and user-friendly web applications. Currently exploring the vast world of web development and always eager to learn new technologies.
+I'm a front-end developer passionate about creating responsive and user-friendly web applications. Currently exploring the vast world of web development and am always eager to learn new technologies.
 
 ## 🚀 Skills
 
@@ -27,6 +27,6 @@ I'm a junior front-end developer passionate about creating responsive and user-f
 ## 📫 Contact Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ivan-sumskyi/)
-- Email: ivensmsk@gmail.com
+- Email: ivan.sumskyi.dev@gmail.com
 
 
